@@ -1,0 +1,10 @@
+<Mod ID="Simple_Player_Markers">
+  <Compatible>1.11b</Compatible>
+  <Name>
+    <EN>Simple Player Markers</EN>
+  </Name>
+  <Description>
+    <EN>Allows Players To Marker Locations for other players using SitckMarkers</EN>
+  </Description>
+  <Version>1.0.0.4</Version>
+</Mod>
